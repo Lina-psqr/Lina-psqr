@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Lina-psqr/Lina-psqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#Bonjour, Je m'appelle Lina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Étudiante en licence Informatique | intéressée par le génie logiciel et l'algorithmique
+
+---
+
+## 🛠 Compétences  
+
+- Langages : Java, C, Python, Prolog ;  
+
+- Modélisation et génie logiciel : conception de systèmes, développement orienté objet, gestion de projets informatiques.  
+
+---
+
+## 📌 Projets Notables  
+
+### 🔹 [Jeu en C - The Last Nightmare](https://github.com/Emma-Rsn/The-Last-Nightmare)  
+
+Un jeu en C RPG roguelite en tour par tour créé avec la bibliothèque SDL2. 
+
+🔹 Technos : C,algorithmiquee
+
+### 🔹 [Site web de recherche de recette - Pot-o-matic](https://github.com/Enzo-mor/Pot-o-matic)  
+
+Un site web permettant aux utilisateurs de rechercher des recettes en fonction des ingrédients disponibles dans leur frigo.  
+
+🔹 Technos : HTML, CSS, JavaScript, Node.js
+
