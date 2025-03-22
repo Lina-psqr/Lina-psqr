@@ -1,6 +1,6 @@
 
 
-##Bonjour, Je m'appelle Lina.
+Bonjour, Je m'appelle Lina.
 
 Étudiante en licence Informatique | intéressée par le génie logiciel et l'algorithmique
 
