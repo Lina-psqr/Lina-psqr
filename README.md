@@ -22,7 +22,7 @@ Un jeu en C RPG roguelite en tour par tour créé avec la bibliothèque SDL2.
 
 🔹 Technos : C,algorithmiquee
 
-### 🔹 [Site web de recherche de recette - Pot-o-matic](https://github.com/Groupe2Projet/Projet-L3-Hashi3x)  
+### 🔹 [Site web de recherche de recette - Pot-o-matic](https://github.com/Enzo-mor/Pot-o-matic)
 
 Un site web permettant aux utilisateurs de rechercher des recettes en fonction des ingrédients disponibles dans leur frigo.  
 
