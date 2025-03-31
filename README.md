@@ -28,7 +28,7 @@ Un site web permettant aux utilisateurs de rechercher des recettes en fonction d
 
 🔹 Technos : HTML, CSS, JavaScript, Node.js
 
-### 🔹 [Jeu en Java - Hashi](https://github.com/Emma-Rsn/The-Last-Nightmare)  
+### 🔹 [Jeu en Java - Hashi](https://github.com/Groupe2Projet/Projet-L3-Hashi3x)
 
 Un jeu de hashi avec un système d'aide. 
 
